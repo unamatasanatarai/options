@@ -1,4 +1,5 @@
-<?php
+<?php namespace Unamatasanatarai\Options;
+
 /**
  * Options module
  */
