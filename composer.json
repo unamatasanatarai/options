@@ -1,0 +1,22 @@
+{
+    "name": "unamatasanatarai/options",
+    "type": "library",
+    "description": "Options package for Laravel5",
+    "homepage": "https://github.com/unamatasanatarai/options",
+    "keywords": ["laravel5","options","configurator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Unamata Sanatarai",
+            "email": "unamatasanatarai@gmail.com",
+            "homepage": "http://www.compelo.com/",
+            "role": "Main Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Unamatasanatarai\\Options\\": "src/Unamatasanatarai/Options"
+        }
+    },
+    "minimum-stability": "dev"
+}
