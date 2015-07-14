@@ -9,10 +9,5 @@ class Option extends Model {
 
 	protected $table    = 'options';
 	protected $fillable = ['name', 'value'];
-
-    public static function all($columns = ['*'])
-    {
-        $data = parent::all($columns);
-        dd($data);
-    }
+    public $timestamps = false;
 }

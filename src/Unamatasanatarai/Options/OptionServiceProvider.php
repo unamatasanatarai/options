@@ -2,7 +2,7 @@
 
 use Illuminate\Support\ServiceProvider;
 
-class OptionsServiceProvider extends ServiceProvider
+class OptionServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
