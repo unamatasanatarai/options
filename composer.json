@@ -16,6 +16,9 @@
     "autoload": {
         "psr-4": {
             "Unamatasanatarai\\Options\\": "src/Unamatasanatarai/Options"
+        },
+        "files": {
+            "src/Unamatasanatarai/Opt.php"
         }
     },
     "minimum-stability": "dev"
