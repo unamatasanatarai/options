@@ -18,7 +18,7 @@
             "Unamatasanatarai\\Options\\": "src/Unamatasanatarai/Options"
         },
         "files": [
-            "src/Unamatasanatarai/Opt.php"
+            "src/Unamatasanatarai/Options/Opt.php"
         ]
     },
     "minimum-stability": "dev"
